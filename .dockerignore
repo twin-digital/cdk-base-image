@@ -1,0 +1,14 @@
+# ignore everything
+*
+
+# whitelist allowed files
+!bin
+!cdk
+!cdk.json
+!container
+!Dockerfile
+!License
+!package-lock.json
+!package.json
+!README.md
+!tsconfig.json
